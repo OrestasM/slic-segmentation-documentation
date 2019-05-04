@@ -1,0 +1,45 @@
+\hypertarget{classdeepzoom__multiserver_1_1__Directory}{}\section{deepzoom\+\_\+multiserver.\+\_\+\+Directory Class Reference}
+\label{classdeepzoom__multiserver_1_1__Directory}\index{deepzoom\+\_\+multiserver.\+\_\+\+Directory@{deepzoom\+\_\+multiserver.\+\_\+\+Directory}}
+
+
+Inheritance diagram for deepzoom\+\_\+multiserver.\+\_\+\+Directory\+:
+% FIG 0
+
+
+Collaboration diagram for deepzoom\+\_\+multiserver.\+\_\+\+Directory\+:
+% FIG 1
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \hyperlink{classdeepzoom__multiserver_1_1__Directory_ac933c6365e14f75f0866478665f7435f}{\+\_\+\+\_\+init\+\_\+\+\_\+} (self, basedir, relpath=\textquotesingle{}\textquotesingle{})
+\end{DoxyCompactItemize}
+\subsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{classdeepzoom__multiserver_1_1__Directory_a1ff32eda613ecee956d2328b2163d434}\label{classdeepzoom__multiserver_1_1__Directory_a1ff32eda613ecee956d2328b2163d434}} 
+{\bfseries name}
+\item 
+\mbox{\Hypertarget{classdeepzoom__multiserver_1_1__Directory_a0943dacc143e7b895afb56bda2f20941}\label{classdeepzoom__multiserver_1_1__Directory_a0943dacc143e7b895afb56bda2f20941}} 
+{\bfseries children}
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+\begin{DoxyVerb}A class of Directory
+\end{DoxyVerb}
+ 
+
+\subsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{classdeepzoom__multiserver_1_1__Directory_ac933c6365e14f75f0866478665f7435f}\label{classdeepzoom__multiserver_1_1__Directory_ac933c6365e14f75f0866478665f7435f}} 
+\index{deepzoom\+\_\+multiserver\+::\+\_\+\+Directory@{deepzoom\+\_\+multiserver\+::\+\_\+\+Directory}!\+\_\+\+\_\+init\+\_\+\+\_\+@{\+\_\+\+\_\+init\+\_\+\+\_\+}}
+\index{\+\_\+\+\_\+init\+\_\+\+\_\+@{\+\_\+\+\_\+init\+\_\+\+\_\+}!deepzoom\+\_\+multiserver\+::\+\_\+\+Directory@{deepzoom\+\_\+multiserver\+::\+\_\+\+Directory}}
+\subsubsection{\texorpdfstring{\+\_\+\+\_\+init\+\_\+\+\_\+()}{\_\_init\_\_()}}
+{\footnotesize\ttfamily def deepzoom\+\_\+multiserver.\+\_\+\+Directory.\+\_\+\+\_\+init\+\_\+\+\_\+ (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{basedir,  }\item[{}]{relpath = {\ttfamily \textquotesingle{}\textquotesingle{}} }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Initilization method of directory class. 
+\end{DoxyVerb}
+ 
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+deepzoom\+\_\+multiserver.\+py\end{DoxyCompactItemize}
